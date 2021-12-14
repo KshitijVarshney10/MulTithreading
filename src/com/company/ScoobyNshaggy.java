@@ -1,4 +1,4 @@
-package com.company;
+
 class Scooby implements Runnable
 {
     @Override
