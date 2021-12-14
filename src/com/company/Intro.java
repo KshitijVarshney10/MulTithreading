@@ -1,4 +1,4 @@
-package multithreading;
+
 // Multithreading using Runnable interface
 class A implements Runnable {
     @Override
